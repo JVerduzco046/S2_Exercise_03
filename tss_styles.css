@@ -1,3 +1,5 @@
+@charset "utf-8";
+
 /*
    New Perspectives on HTML5 and CSS3, 7th Edition
    Tutorial 2
@@ -10,19 +12,28 @@
    Filename: tss_styles.css
 
 */
-
 /* HTML and Body Styles */
+html {
+    background-color: hsl(27, 72%, 72%);
+}
+
+body {
+    color: rgb(91, 91, 91;
+    ;
+    background-color: ivory)
+}
 
 /* Heading Styles */
+h1 {
+    color: white;
+    text-shadow: rgb(180, 43, 157) 2px 2px 2px;
+    background-color: rgb(222, 128, 60)
+}
 
 /* Aside and Blockquote Styles */
-
 /* Navigation Styles */
-
 /* List Styles */
-
 /* Footer Styles */
-
 /*
 Notice for the Quicksand-Regular Font
 ------------------------------------------------------------------------------
@@ -106,7 +117,3 @@ HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERA
 INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING 
 FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.
 */
-
-body {
-    text-shadow:
-}
